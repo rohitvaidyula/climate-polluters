@@ -9,14 +9,22 @@
     line-height: 1.2;
 }
 
-.tit {
+.tat {
     font-size: 20px;
+}
+
+.bruh {
+    padding-top: 20px;
 }
 .video {
     margin: 0 auto;
     width: 1200px;
     height: 850px;
     padding: 25px;
+}
+
+.video-settings {
+    padding-top: 50px;
 }
 
 .cards-container {

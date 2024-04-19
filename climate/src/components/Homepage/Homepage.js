@@ -5,16 +5,16 @@ function Homepage() {
   return (
     <div>
         <div className='text'>
-            <p className='tit'>LEARN ABOUT THOSE POLLUTING OUR ENVIRONMENT.</p>
+            <p className='tat bruh'>LEARN ABOUT THOSE POLLUTING OUR ENVIRONMENT.</p>
             <p>The Climate Polluters Index (CPI) stories all of the top energy companies contributing to the climate crisis. The database is ranked by the total greenhouse gas emissions (GHG) and the associated surface water and toxic hazard dumped into its locality. All of the data was collected from the EPA, PERI, and EWG. Click the Stories tab to read testimonials and view the top polluters below.</p>
         </div>
 
         <div className='video'>
-        <iframe width="1200" height="650" src="https://www.youtube.com/embed/gngPQ771Ahk?si=UkDQ-c4NVrmUPjYc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          <iframe className = "video-settings" width="1200" height="650" src="https://www.youtube.com/embed/gngPQ771Ahk?si=UkDQ-c4NVrmUPjYc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </div>
 
         <div className='text'>
-            <p className='tit'>TOP POLLUTORS</p>
+            <p className='tat'>TOP POLLUTORS</p>
             <p>The top 30 US polluters are ranked by the total greenhouse gas emissions (GHG) and the associated surface water and toxic hazard. The GHG ranking is specific to the total metric tons of carbon dioxide emissions (MTCO2e) from a company’s energy facilities, primarily oil and natural gas, coal, and electricity.</p>
         </div>
 
