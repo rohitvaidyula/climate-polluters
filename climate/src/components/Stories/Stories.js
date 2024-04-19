@@ -3,7 +3,7 @@ import './Stories.css'
 
 function Stories() {
   return (
-    <div>
+    <div className='story'>
         <div className='stories'>
             <h3>STORIES</h3>
             <p>Testimonials are being collected to document the health conditions of residents living near energy facilities. In the meantime, you can 
