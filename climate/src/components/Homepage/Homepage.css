@@ -20,12 +20,9 @@
     margin: 0 auto;
     width: 1200px;
     height: 850px;
+    padding-top: 75px;
+    padding-bottom: 75px;
 }
-
-.video-settings {
-    padding-top: 50px;
-}
-
 .cards-container {
     display: flex;
     justify-content: center;
