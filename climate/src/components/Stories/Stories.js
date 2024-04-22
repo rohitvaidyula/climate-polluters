@@ -13,7 +13,7 @@ function Stories() {
 
         <div className='articles'>
             <h3>ARTICLES</h3>
-            <a href='https://www.houstonchronicle.com/author/rebekah-ward/'>Houston Chronicle's Coverage on environment and energy.</a>
+            <a href='https://www.houstonchronicle.com/author/rebekah-ward/'>Houston Chronicle's Coverage on environment and energy</a>
             <br />
             <a href='https://www.axios.com/2023/05/10/oil-gas-health-impacts-study'>Oil and gas health impacts cost $77 billion per year, study finds</a>
             <br />
@@ -34,6 +34,28 @@ function Stories() {
             <a href='https://gizmodo.com/offset-carbon-credits-industrial-sabotage-1850114026'>Eco-Crime Pays: New Scheme Lets You Trade ‘Industrial Sabotage’ for Carbon Credits</a>
             <br />
             <a href='https://www.vice.com/en/article/88np3v/what-is-carbon-footprint-net-zero-greenwashing-emissions-guide'>'Carbon Footprint' and 'Net Zero' Don't Mean What You Think</a>
+            <br />
+            <a href='https://www.hrw.org/report/2024/01/25/were-dying-here/fight-life-louisiana-fossil-fuel-sacrifice-zone'>The Fight for Life in a Louisiana Fossil Fuel Sacrifice Zone </a>
+            <br />
+            <a href='https://ehsdailyadvisor.blr.com/2024/01/continued-rise-in-pfas-litigation-expected-in-2024/'>Continued Rise in PFAS Litigation Expected in 2024</a>
+            <br />
+            <a href='https://apnews.com/article/epa-louisiana-cancer-alley-pollution-discrimination-915d957401318aaf57fc478afbf29f9a'>Louisiana was open to Cancer Alley concessions. Then EPA dropped its investigation</a>
+            <br />
+            <a href='https://insideclimatenews.org/news/31102023/oil-gas-companies-spill-wastewater-in-texas/'>Oil and Gas Companies Spill Millions of Gallons of Wastewater in Texas</a>
+            <br />
+            <a href='https://capitalbnews.org/gas-exports-black-activism/'>The Black-Led Movement to Stop ‘New Cancer Alleys’ From Being Built in Louisiana</a>
+            <br />
+            <a href='https://www.commondreams.org/news/big-oil-sacrifice-zones'>'Death Sentence': Reports Call for End to Big Oil's US Sacrifice Zones </a>
+            <br />
+            <a href='https://www.sciencedirect.com/science/article/pii/S0048969716322392'>Unconventional oil and gas development and risk of childhood leukemia: Assessing the evidence</a>
+            <br />
+            <a href='https://www.theatlantic.com/science/archive/2024/01/biden-liquid-natural-gas-pause-climate-voters/677259/'>Why Biden Handed Climate Activists a Huge Victory</a>
+            <br />
+            <a href='https://www.washingtonpost.com/climate-environment/2023/10/17/natural-gas-exports-climate-activists/'>The next front in the climate fight: U.S. exports of natural gas</a>
+            <br />
+            <a href='https://www.nytimes.com/2024/01/25/climate/a-huge-win-for-activists-puts-climate-on-the-2024-agenda.html'>A Huge Win for Activists Puts Climate on the 2024 Agenda</a>
+            <br />
+            <a href='https://www.vox.com/climate/2023/9/21/23879312/climate-protests-activism-un-climate-week'>What climate activists mean when they say “end fossil fuels”</a>
             <br />
         </div>
 

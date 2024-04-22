@@ -1,5 +1,5 @@
 import React from 'react'
-import './Homepage.css';
+import './Homepage.css'
 
 function Homepage() {
   return (
@@ -10,12 +10,12 @@ function Homepage() {
         </div>
 
         <div className='video'>
-          <iframe width="1200" height="750" className = "video-settings" src="https://www.youtube.com/embed/N7HWL1g1sek?si=ZdM7v5oI377vSgPw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>        
+        <iframe width="1200" height="700" src="https://www.youtube.com/embed/r6SHRPT67Gs?si=7fSCJxCrMFGDZ3yS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </div>
 
         <div className='text'>
             <p className='tat'>TOP POLLUTORS</p>
-            <p>The top 30 US polluters are ranked by the total greenhouse gas emissions (GHG) and the associated surface water and toxic hazard. The GHG ranking is specific to the total metric tons of carbon dioxide emissions (MTCO2e) from a company’s energy facilities, primarily oil and natural gas, coal, and electricity.</p>
+            <p>The top 30 US polluters are ranked by the total greenhouse gas emissions (GHG) and the associated surface water and toxic hazard. The GHG ranking is specific to the total metric tons of carbon dioxide emissions (MTCO2e) from a company’s facilities, primarily oil and natural gas, coal, electricity, and materials processing.</p>
         </div>
 
         

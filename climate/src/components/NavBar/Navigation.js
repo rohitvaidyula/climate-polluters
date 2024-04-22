@@ -7,7 +7,7 @@ function Navigation() {
   return (
     <div className='row'>
         <div className='brand-column'>
-            <p>CLIMATE POLLUTERS INDEX</p>
+            <a href = "/" className = 'def-color' style={{textDecoration: 'none'}}>CLIMATE POLLUTERS INDEX</a>
         </div>
 
         <div className='link-column'>
