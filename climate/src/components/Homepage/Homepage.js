@@ -16,7 +16,7 @@ function Homepage() {
 
         <div className='text'>
             <p className='tat'>TOP POLLUTORS</p>
-            <p>The top 30 US polluters are ranked by the total greenhouse gas emissions (GHG) and the associated surface water and toxic hazard. The GHG ranking is specific to the total metric tons of carbon dioxide emissions (MTCO2e) from a company’s energy facilities, primarily oil and natural gas, coal, electricity, and materials processing. This data was gathered from the publicly available Political Economy Research Institute.</p>
+            <p>The top 30 US polluters are ranked by the total greenhouse gas emissions (GHG) and the associated surface water and toxic hazard. The GHG ranking is specific to the total metric tons of carbon dioxide emissions (MTCO2e) from a company’s facilities, primarily oil and natural gas, coal, electricity, and materials processing. This data was gathered from the publicly available Political Economy Research Institute.</p>
         </div>
 
         
