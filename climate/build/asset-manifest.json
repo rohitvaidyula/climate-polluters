@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.bf2e2744.css",
-    "main.js": "/static/js/main.d15db648.js",
+    "main.js": "/static/js/main.5cf36932.js",
     "static/js/453.b4cb6b9b.chunk.js": "/static/js/453.b4cb6b9b.chunk.js",
     "static/media/21_Phillips 66.jpg": "/static/media/21_Phillips 66.e159e2399376bd3f7c53.jpg",
     "static/media/4_Berkshire Hathaway.jpg": "/static/media/4_Berkshire Hathaway.b520ac8969b2ea1f9d2f.jpg",
@@ -35,11 +35,11 @@
     "static/media/14_DTE Energy.jpg": "/static/media/14_DTE Energy.edf94507f1a1982b0e75.jpg",
     "index.html": "/index.html",
     "main.bf2e2744.css.map": "/static/css/main.bf2e2744.css.map",
-    "main.d15db648.js.map": "/static/js/main.d15db648.js.map",
+    "main.5cf36932.js.map": "/static/js/main.5cf36932.js.map",
     "453.b4cb6b9b.chunk.js.map": "/static/js/453.b4cb6b9b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bf2e2744.css",
-    "static/js/main.d15db648.js"
+    "static/js/main.5cf36932.js"
   ]
 }
