@@ -6,7 +6,8 @@ function Homepage() {
     <div>
         <div className='text'>
             <p className='tat bruh'>LEARN ABOUT THOSE AFFECTING OUR ENVIRONMENT.</p>
-            <p>The Climate Polluters Index (CPI) stories all of the top energy companies contributing to the air and water pollution. The database is ranked by the total greenhouse gas emissions (GHG) and the associated surface water and toxic hazard dumped into its locality. All of the data was collected from the EPA, PERI, and EWG publicly available datasets. Click the Stories tab to read testimonials and view the top polluters below.</p>
+            <p>The Climate Polluters Index (CPI) stories all of the top energy companies contributing to air and water pollution. The database is ranked by the total greenhouse gas emissions (GHG) and the associated surface water and toxic hazard dumped into its locality. All of the data was collected from the EPA, PERI, and EWG and is purely representing publicly available datasets.  Click the Stories tab to read testimonials and view the top polluters below.
+</p>
         </div>
 
         <div className='video'>
