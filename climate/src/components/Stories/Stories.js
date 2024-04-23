@@ -59,6 +59,13 @@ function Stories() {
             <br />
         </div>
 
+        <div className='datasets'> 
+          <h3>DATASETS</h3>
+          <a href='https://peri.umass.edu/greenhouse-100-polluters-index-current'>PERI’S Greenhouse 100 Polluters Index</a>
+          <br />
+          <a href='https://www.grconnect.com/tox100wt/ry2021/index.php'>PERI’S Toxic 100 Water Polluters Detailed Company Reports</a>
+        </div>
+
     </div>
   )
 }
