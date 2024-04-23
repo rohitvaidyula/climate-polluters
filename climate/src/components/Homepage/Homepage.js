@@ -10,7 +10,7 @@ function Homepage() {
         </div>
 
         <div className='video'>
-        <iframe width="1200" height="700" src="https://www.youtube.com/embed/r6SHRPT67Gs?si=7fSCJxCrMFGDZ3yS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe width="1200" height="750" src="https://www.youtube.com/embed/_HeYRZPCRaY?si=Z1byGhTlGKrOp8IY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </div>
 
         <div className='text'>
