@@ -6,7 +6,7 @@ function Homepage() {
     <div>
         <div className='text'>
             <p className='tat bruh'>LEARN ABOUT THOSE AFFECTING OUR ENVIRONMENT.</p>
-            <p>The Climate Polluters Index (CPI) stories all of the top energy companies contributing to air and water pollution. The database is ranked by the total greenhouse gas emissions (GHG) and the associated surface water and toxic hazard dumped into its locality. All of the data was collected from the EPA, PERI, and EWG and is representing publicly available datasets.  Click the Stories tab to read testimonials and view the top polluters below.
+            <p>The Climate Polluters Index (CPI) stories all of the top companies contributing to air and water pollution. The database is ranked by the total greenhouse gas emissions (GHG) and the associated surface water and toxic hazard dumped into its locality. All of the data was collected from the EPA, PERI, and EWG and is representing publicly available datasets.  Click the Stories tab to read testimonials and view the top polluters below.
 </p>
         </div>
 
@@ -187,7 +187,7 @@ function Homepage() {
             <div className='card'>
                 <img src={require('../Homepage/images/21_Phillips 66.jpg')} alt='Ye'/>
                 <div className="card-content">
-                  <h3>18. PHILIPS 66</h3>
+                  <h3>18. PHILLIPS 66</h3>
                   <p>Total GHG Pollution: <em className='bloods'>24,589,430 MTCO2e</em></p>
                   <p>Total Surface Water & Toxic Hazard: <em className='bloods'>263,395,047 lbs</em></p>
                 </div>
